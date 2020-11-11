@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 10%;
+    border-top: 2px solid #ccc
+}
+
+.footer-col {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

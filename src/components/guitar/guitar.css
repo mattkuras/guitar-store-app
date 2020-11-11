@@ -1,0 +1,13 @@
+.displayGuitar {
+    width: 50%; 
+    border: 1px solid black;
+    margin-left: 25%;
+    padding: 2em;
+    margin-top: 2em;
+    border-radius: 5px;
+}
+
+.guitarImg {
+    width: 100%;
+    height: 300px;
+}
